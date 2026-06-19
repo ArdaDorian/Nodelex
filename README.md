@@ -58,7 +58,7 @@ become `CharacterSO` assets, all driven by a lightweight `DialogueRunner`
 using C# events.
 
 <p align="center">
-  <img src="docs/images/unity-export.png" alt="Nodelex-exported DialogueTreeSO assets shown in the Unity Inspector" width="800">
+  <img src="unity-export.png" alt="Nodelex-exported DialogueTreeSO assets shown in the Unity Inspector" width="800">
 </p>
 
 ## Ways to use Nodelex
