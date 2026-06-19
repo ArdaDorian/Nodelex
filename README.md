@@ -11,7 +11,7 @@ lines, and flesh out characters as you go.
 📥 **[Download](https://www.nodelex.online/launch)** — Web Editor, Lite Editor, Desktop App, and Unity Package
 
 <p align="center">
-  <img src="docs/images/hero-canvas.gif" alt="Building a branching dialogue tree on the Nodelex node canvas" width="800">
+  <img src="Editor_Usage.gif" alt="Building a branching dialogue tree on the Nodelex node canvas" width="800">
 </p>
 
 ---
