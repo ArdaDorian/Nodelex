@@ -46,7 +46,7 @@ It's built for game developers and writers working on:
 - **Unreal Engine export** — coming soon
 
 <p align="center">
-  <img src="docs/images/ai-assistant.gif" alt="Nodelex AI assistant suggesting a dialogue branch" width="800">
+  <img src="AI_Assistance.gif" alt="Nodelex AI assistant suggesting a dialogue branch" width="800">
 </p>
 
 ## Unity Integration
